@@ -1,4 +1,4 @@
-package vtvhw;
+package ru.vtvhw;
 
 import org.junit.jupiter.api.Test;
 import ru.vtvhw.maven.MavenCircle;
